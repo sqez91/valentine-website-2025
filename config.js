@@ -18,10 +18,10 @@ const CONFIG = {
     // Questions and answers
     questions: {
         first: {
-            text: "Kedvelsz engem?",
-            yesBtn: "Igen",
-            noBtn: "Nem",
-            secretAnswer: "Nem kedvellek , szeretlek ❤️"
+            text: "Most komolyan ki a szexibb én vagy Joe Jonas?",
+            yesBtn: "Balázs",
+            noBtn: "Joe Jonas",
+            secretAnswer: "Jól gondoltad, nem is lehet kérdés! ❤️"
         },
         second: {
             text: "Mennyire szeretsz?",
@@ -29,31 +29,31 @@ const CONFIG = {
             nextBtn: "Folytatás ❤️"
         },
         third: {
-            text: "Február 8 csak a miénk lesz? 🌹",
-            yesBtn: "Igen!",
+            text: "Legyen Február 8 a mi Valentinunk,elrabolhatlak? 🌹",
+            yesBtn: "Naná",
             noBtn: "Nem"
         }
     },
 
     // Love meter messages
     loveMessages: {
-        extreme: "Wow, ez már talán az enyém fele?? 🥰🚀💝",
-        high: "A végtelenbe és tovább! 🚀💝",
+        extreme: "Wow, ezt még Tony Stark is megirigyelné!🥰🚀💝",
+        high: "Mint egy Spicy Noodle! 🚀💝",
         normal: "Nagyon! 🥰"
     },
 
     // First celebration screen
     celebration: {
-        title: "Teringettét ennek a felem sem tréfa, nagyon szerencsés vagyok 🎉💝💖💝💓",
-        message: "A meglepetésed egy Aroma Terápiás masszázs",
+        title: "Én vagyok a legszerencsésebb férfi a föld kerekén!!!🎉💝💖💝💓",
+        message: "És te is, mert a meglepetésed egy Aroma Terápiás masszázs",
         emojis: "🎁💖🤗💝💋❤️💕",
         nextBtn: "És még valami 💌"
     },
 
     // Second celebration screen 💖
     secondCelebration: {
-        title: "Még valami💕",
-        message: "Egy vacsi egy titkos helyen hihi, nagyon Szeretlek❤️",
+        title: "Egy kis apróság💕",
+        message: "Egy vacsi egy titkos helyen vagy nem is annyira titkos T**** , nagyon Szeretlek❤️",
         emojis: "💖✨🥰💝💫"
     },
 
