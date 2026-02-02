@@ -53,7 +53,7 @@ const CONFIG = {
     // Second celebration screen 💖
     secondCelebration: {
         title: "Egy kis apróság💕",
-        message: "Egy vacsi egy titkos helyen vagy nem is annyira titkos T**** , nagyon Szeretlek❤️",
+        message: "Egy vacsi egy titkos helyen, vagy nem is annyira titkos? T**** , nagyon Szeretlek❤️",
         emojis: "💖✨🥰💝💫"
     },
 
