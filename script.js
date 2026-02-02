@@ -51,7 +51,7 @@ document.title = config.pageTitle;
 window.addEventListener('DOMContentLoaded', () => {
     validateConfig();
 
-    document.getElementById('valentineTitle').textContent = `${config.valentineName}, my love...`;
+    document.getElementById('valentineTitle').textContent = `${config.valentineName}, my BuBiBoo`;
     
     document.getElementById('question1Text').textContent = config.questions.first.text;
     document.getElementById('yesBtn1').textContent = config.questions.first.yesBtn;
