@@ -7,7 +7,7 @@ const CONFIG = {
     valentineName: "Szonja",
 
     // The title that appears in the browser tab
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Leszel a Valentinom 26-ban is? 💝",
 
     // Floating emojis that appear in the background
     floatingEmojis: {
@@ -18,42 +18,42 @@ const CONFIG = {
     // Questions and answers
     questions: {
         first: {
-            text: "Do you like me?",
-            yesBtn: "Yes",
-            noBtn: "No",
-            secretAnswer: "I don't like you, I love you! ❤️"
+            text: "Kedvelsz engem?",
+            yesBtn: "Igen",
+            noBtn: "Nem",
+            secretAnswer: "Nem kedvellek , szeretlek ❤️"
         },
         second: {
-            text: "How much do you love me?",
-            startText: "This much!",
-            nextBtn: "Next ❤️"
+            text: "Mennyire szeretsz?",
+            startText: "Ennyire!",
+            nextBtn: "Folytatás ❤️"
         },
         third: {
-            text: "Will you be my Valentine on February 14th? 🌹",
-            yesBtn: "Yes!",
-            noBtn: "No"
+            text: "Február 8 csak a miénk lesz? 🌹",
+            yesBtn: "Igen!",
+            noBtn: "Nem"
         }
     },
 
     // Love meter messages
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",
-        high: "To infinity and beyond! 🚀💝",
-        normal: "And beyond! 🥰"
+        extreme: "Wow, ez már talán az enyém fele?? 🥰🚀💝",
+        high: "A végtelenbe és tovább! 🚀💝",
+        normal: "Nagyon! 🥰"
     },
 
     // First celebration screen
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Your gift will be a 1 Hour Aromatherapy Oil Massage on the 8th of February and dinner at a secret location",
+        title: "Teringettét ennek a felem sem tréfa, nagyon szerencsés vagyok 🎉💝💖💝💓",
+        message: "A meglepetésed egy Aroma Terápiás masszázs",
         emojis: "🎁💖🤗💝💋❤️💕",
-        nextBtn: "One more thing 💌"
+        nextBtn: "És még valami 💌"
     },
 
     // Second celebration screen 💖
     secondCelebration: {
-        title: "One more thing... 💕",
-        message: "I can't wait to make many more beautiful memories with you ❤️",
+        title: "Még valami💕",
+        message: "Egy vacsi egy titkos helyen hihi, nagyon Szeretlek❤️",
         emojis: "💖✨🥰💝💫"
     },
 
