@@ -7,7 +7,7 @@ function validateConfig() {
 
     if (!config.valentineName) {
         warnings.push("Valentine's name is not set! Using default.");
-        config.valentineName = "Szonja";
+        config.valentineName = "My Love";
     }
 
     const isValidHex = (hex) => /^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$/.test(hex);
